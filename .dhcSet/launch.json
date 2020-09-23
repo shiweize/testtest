@@ -1,0 +1,20 @@
+{
+  "devtoolsUrl": "",
+  "env": {
+    "port": "8080",
+    "proxyUrl": "http://www.baidu.com"
+  },
+  "golbalSettingPath": "",
+  "moduleData": [],
+  "projectName": "1",
+  "projectPath": "/D:/Myapp",
+  "serviceUrl": "",
+  "configuration": [
+    {
+      "comp_name": "Row",
+      "label": "行",
+      "type": "row",
+      "isCommon": true
+    }
+  ]
+}
